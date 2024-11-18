@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sayedabdulmongey
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ML
 - 📫 How to reach me sayedsalem767@gmail.com
 
 <!---
